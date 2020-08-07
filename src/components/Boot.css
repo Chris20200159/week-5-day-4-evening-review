@@ -1,0 +1,10 @@
+.boot{
+    height: 200px;
+    width: 150px;
+    border: 1px solid black
+  }
+  
+  .boot-image{
+    height: 100px;
+    width: 75px;
+  }
